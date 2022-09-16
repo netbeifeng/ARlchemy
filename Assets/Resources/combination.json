@@ -1,0 +1,372 @@
+{
+  "game": "AR-Alchemy",
+  "members": [
+    "Ao Gao",
+    "Fabian Nhan",
+    "Klejdi Sinollari",
+    "Sheng-Chia Yu",
+    "Chang Luo"
+  ],
+  "levels": [
+    {
+      "name": "Level 1",
+      "id": 1,
+      "goal": 117,
+      "elements": [
+        {
+          "id": 101,
+          "name": "Cloud"
+        },
+        {
+          "id": 102,
+          "name": "Soil"
+        },
+        {
+          "id": 103,
+          "name": "Fire"
+        },
+        {
+          "id": 104,
+          "name": "Water"
+        },
+        {
+          "id": 105,
+          "name": "Time"
+        },
+        {
+          "id": 106,
+          "name": "Rain"
+        },
+        {
+          "id": 107,
+          "name": "Energy"
+        },
+        {
+          "id": 108,
+          "name": "Earth"
+        },
+        {
+          "id": 109,
+          "name": "Sand"
+        },
+        {
+          "id": 110,
+          "name": "Pond"
+        },
+        {
+          "id": 111,
+          "name": "Life"
+        },
+        {
+          "id": 112,
+          "name": "Animal"
+        },
+        {
+          "id": 113,
+          "name": "Plant"
+        },
+        {
+          "id": 114,
+          "name": "Cactus"
+        },
+        {
+          "id": 115,
+          "name": "Human"
+        },
+        {
+          "id": 116,
+          "name": "Desert"
+        },
+        {
+          "id": 117,
+          "name": "OasisCity"
+        },
+        {
+          "id": 118,
+          "name": "Swamp"
+        }
+      ],
+      "combinations": [
+        {
+          "elements": [101, 104],
+          "product": 106
+        },
+        {
+          "elements": [ 103, 103 ],
+          "product": 107
+        },
+        {
+          "elements": [ 102, 102 ],
+          "product": 108
+
+        },
+        {
+          "elements": [ 102, 105 ],
+          "product": 109
+        },
+        {
+          "elements": [ 102, 106 ],
+          "product": 118
+        },
+        {
+          "elements": [ 118, 107],
+          "product": 111
+        },
+        {
+          "elements": [ 107, 110 ],
+          "product": 110
+        },
+        {
+          "elements": [ 111, 108 ],
+          "product": 112
+        },
+        {
+          "elements": [ 111, 102 ],
+          "product": 113
+        },
+        {
+          "elements": [ 113, 109 ],
+          "product": 114
+        },
+        {
+          "elements": [ 112, 105 ],
+          "product": 115
+        },
+        {
+          "elements": [ 114, 109 ],
+          "product": 116
+        },
+        {
+          "elements": [ 115, 116 ],
+          "product": 117
+        }
+      ]
+    },
+    {
+      "name": "Level 2",
+      "id": 2,
+      "goal": 205,
+      "elements": [
+        {
+          "id": 201,
+          "name": "Fire"
+        },
+        {
+          "id": 202,
+          "name": "Soil"
+        },
+        {
+          "id": 203,
+          "name": "Metal"
+        },
+        {
+          "id": 204,
+          "name": "Wood"
+        },
+        {
+          "id": 205,
+          "name": "Automotive"
+        },
+        {
+          "id": 206,
+          "name": "Engine"
+        },
+        {
+          "id": 207,
+          "name": "Carriage"
+        },
+        {
+          "id": 208,
+          "name": "Energy"
+        },
+        {
+          "id": 209,
+          "name": "Machine"
+        },
+        {
+          "id": 210,
+          "name": "Seat"
+        },
+        {
+          "id": 211,
+          "name": "Wheel"
+        },
+        {
+          "id": 212,
+          "name": "Tool"
+        },
+        {
+          "id": 213,
+          "name": "Component"
+        },
+        {
+          "id": 214,
+          "name": "Board"
+        }
+      ],
+      "combinations": [
+        {
+          "elements": [206, 207],
+          "product": 205
+        },
+        {
+          "elements": [208, 209],
+          "product": 206
+        },
+        {
+          "elements": [201, 201],
+          "product": 208
+        },
+        {
+          "elements": [212, 213],
+          "product": 209
+        },
+        {
+          "elements": [212, 214],
+          "product": 210
+        },
+        {
+          "elements": [203, 212],
+          "product": 211
+        },
+        {
+          "elements": [208, 202],
+          "product": 212
+        },
+        {
+          "elements": [201, 203],
+          "product": 213
+        },
+        {
+          "elements": [210, 211],
+          "product": 207
+        },
+        {
+          "elements": [204, 204],
+          "product": 214
+        }
+      ]
+    },
+    {
+      "name": "Level 3",
+      "id": 3,
+      "goal": 316,
+      "elements": [
+        {
+          "id": 301,
+          "name": "Soil"
+        },
+        {
+          "id": 302,
+          "name": "Fire"
+        },
+        {
+          "id": 303,
+          "name": "Water"
+        },
+        {
+          "id": 304,
+          "name": "Lava"
+        },
+        {
+          "id": 305,
+          "name": "Cloud"
+        },
+        {
+          "id": 306,
+          "name": "Stone"
+        },
+        {
+          "id": 307,
+          "name": "Swamp"
+        },
+        {
+          "id": 308,
+          "name": "Energy"
+        },
+        {
+          "id": 309,
+          "name": "Sand"
+        },
+        {
+          "id": 310,
+          "name": "Life"
+        },
+        {
+          "id": 311,
+          "name": "Seed"
+        },
+        {
+          "id": 312,
+          "name": "Tree"
+        },
+        {
+          "id": 313,
+          "name": "Tool"
+        },
+        {
+          "id": 314,
+          "name": "Wood"
+        },
+        {
+          "id": 315,
+          "name": "Boat"
+        },
+        {
+          "id": 316,
+          "name": "Ship"
+        }
+      ],
+      "combinations": [
+        {
+          "elements": [301, 302],
+          "product": 304
+        },
+        {
+          "elements": [304, 303],
+          "product": 306
+        },
+        {
+          "elements": [301, 303],
+          "product": 307
+        },
+        {
+          "elements": [302, 305],
+          "product": 308
+        },
+        {
+          "elements": [306, 303],
+          "product": 309
+        },
+        {
+          "elements": [308, 307],
+          "product": 310
+        },
+        {
+          "elements": [308, 309],
+          "product": 311
+        },
+        {
+          "elements": [301, 311],
+          "product": 312
+        },
+        {
+          "elements": [306, 308],
+          "product": 313
+        },
+        {
+          "elements": [312, 313],
+          "product": 314
+        },
+        {
+          "elements": [314, 303],
+          "product": 315
+        },
+        {
+          "elements": [315, 314],
+          "product": 316
+        }
+      ]
+    }
+  ]
+}
